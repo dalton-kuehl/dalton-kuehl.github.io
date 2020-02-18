@@ -1,2 +1,3 @@
 name: Dalton Kuehl
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
