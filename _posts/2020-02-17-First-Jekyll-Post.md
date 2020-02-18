@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Dalton Kuehl, First Test Post"
 date: 2020-02-17
 ---
 
