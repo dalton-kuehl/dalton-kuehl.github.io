@@ -76,7 +76,7 @@ ul.posts li {
 }
 ol.posts { 
     margin: 20px auto 40px; 
-    font-size: 2px;
+    font-size: 20px;
     font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }
 
@@ -85,5 +85,5 @@ ol.posts li {
     font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }
 ol {
-font:15px "Arial",san-serif;
+font:10px "Arial",san-serif;
 }
