@@ -84,3 +84,6 @@ ol.posts li {
     list-style: none;
     font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }
+ol {
+font:15px "Arial",san-serif;
+}
