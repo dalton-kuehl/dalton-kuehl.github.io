@@ -74,3 +74,13 @@ ul.posts li {
     list-style: none;
     font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }
+ol.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+    font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+
+ol.posts li {
+    list-style: none;
+    font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
