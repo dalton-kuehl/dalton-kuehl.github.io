@@ -5,7 +5,7 @@ date: 2020-05-24
 ---
 I love this quote by Jame Clear:
 
-https://twitter.com/jamesclear/status/1047643455722283009?lang=en
+<center>"You do not rise to the level of your goals. You fall to the level of your systems."</center>
 
 As we are settling into this new socially isolated and distanced norm, we are consciously or unconsciously setting up some new systems. In essence, we have a chance to reset our systems or to redevelop those which have been lost in time. What habits and system have you added to your life since you&#x27;ve been in lock down? I did <em>misplace</em> quite a few habits during quarantine (workouts, ahem), but I&#x27;ve managed to start a few positive ones. 
 
