@@ -3,7 +3,6 @@ layout: post
 title: "2019 Statistical Year in Review"
 date: 2020-01-02
 ---
-# 2019 Statistical Year in Review
 
 # Health Related Data
 
