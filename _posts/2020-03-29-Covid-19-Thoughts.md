@@ -17,7 +17,7 @@ In times of uncertaintity such as this, I think it becomes very clear why having
 
 The other thing I think is incredibly important is having some type of Emergency Fund. It was shocking to me when I saw this infographic. 
 
-![COVID%2019%20Thoughts/Untitled.png](COVID%2019%20Thoughts/Untitled.png)
+![Most Americans Lack Savings](https://user-images.githubusercontent.com/61129528/83968495-5058ad80-a88f-11ea-940e-fd55d7bcea21.png)
 
 Based on this, many Americans are living paycheck to paycheck or pretty darn close and that means that could be a very large number of people in some serious financial trouble if (and when) this economic impact extends beyond 1 or 2 months. 
 
